@@ -34,7 +34,7 @@ npm install --save cv-dialog-sdk
 the package will install in the `package.json` under dependencies
 
 ## Overview
-![Overview](./../SDK_Overview.png)
+![Overview](./SDK_Overview.png)
 
 ### The Catavolt Dialog Model
 The Catavolt Dialog Model represents an '***Abstract User Interface***', managed by the server, transposed via the Dialog Service, and delivered to the `cv-dialog-sdk`. This SDK contains the instruction set for rendering the client's UI.  This system differs subtly, but
